@@ -10,7 +10,8 @@ Sales Insights - Data Analysis using Tableau &amp; SQL
 # Tableau Dashboards:
 
 ## 1. Revenue Analysis
-**[View Dashboard](Images/Dashboard 1 - revenue analysis.png)**
+![World Happiness Index Map](WHR23_map.png)
+[View Dashboard](Images/Dashboard 1 - revenue analysis.png)
 
 ![Revenue Dashboard](https://public.tableau.com/views/SalesInsights-Revenueanalysis/Dashboard1-revenueanalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
