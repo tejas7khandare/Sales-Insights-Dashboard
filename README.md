@@ -5,6 +5,7 @@ Sales Insights - Data Analysis using Tableau &amp; SQL
 - Included metrics like total revenue, quantity, trends, market-specific insights, and top customers/products.
 - Implemented SQL for efficient database management, ensuring seamless integration with Tableau.
 - Conducted in-depth data analysis for revenue trends and profitability indicators.
+  
 - Utilized for delivering clear visual insights to organization, aiding in informed decision-making by staying updated on real-time revenue, profit trends, and market-specific data.
 
 # Tableau Dashboards:
