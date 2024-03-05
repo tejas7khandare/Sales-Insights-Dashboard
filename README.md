@@ -1,7 +1,7 @@
 # Sales-Insights-Dashboard
 Sales Insights - Data Analysis using Tableau &amp; SQL
 
-• Developed Revenue Analysis and Profit Analysis dashboards for a hardware company (AtliQ Hardware).
+- Developed Revenue Analysis and Profit Analysis dashboards for a hardware company (AtliQ Hardware).
 - Included metrics like total revenue, quantity, trends, market-specific insights, and top customers/products.
 - Implemented SQL for efficient database management, ensuring seamless integration with Tableau.
 - Conducted in-depth data analysis for revenue trends and profitability indicators.
