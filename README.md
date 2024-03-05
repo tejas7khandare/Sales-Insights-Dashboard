@@ -10,10 +10,8 @@ Sales Insights - Data Analysis using Tableau &amp; SQL
 # Tableau Dashboards:
 
 ## 1. [Revenue Analysis](https://public.tableau.com/views/SalesInsights-Revenueanalysis/Dashboard1-revenueanalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-![View Dashboard]()
+![View Dashboard](Images/Dashboard 1 - revenue analysis.png)
 
 
-## 2. Profit Analysis
+## 2. [Profit Analysis](https://public.tableau.com/views/SalesInsights-Profitanalysis/Dashboard2-profitanalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 **[View Dashboard](Images/Dashboard 1 - revenue analysis.png)**
-
-![Profit Dashboard](https://public.tableau.com/views/SalesInsights-Profitanalysis/Dashboard2-profitanalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
