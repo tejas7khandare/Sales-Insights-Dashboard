@@ -7,7 +7,7 @@ Sales Insights - Data Analysis using Tableau &amp; SQL
 - Conducted in-depth data analysis for revenue trends and profitability indicators.
 - Utilized for delivering clear visual insights to organization, aiding in informed decision-making by staying updated on real-time revenue, profit trends, and market-specific data.
 
-# Tableau Dashboards ![Tableau Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Faccess.tufts.edu%2Fsites%2Fdefault%2Ffiles%2F2017-10%2FTableau.svg&tbnid=qERhLS3_54cCEM&vet=12ahUKEwiEvrONgd2EAxVnfGwGHezaAHkQMygHegQIARBZ..i&imgrefurl=https%3A%2F%2Faccess.tufts.edu%2Ftableau&docid=BbHnU5Pa9GyEVM&w=800&h=800&q=tableau%20logo%20link&ved=2ahUKEwiEvrONgd2EAxVnfGwGHezaAHkQMygHegQIARBZ)
+# Tableau Dashboards:
 
 ## 1. [Revenue Analysis](https://public.tableau.com/views/SalesInsights-Revenueanalysis/Dashboard1-revenueanalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 ![View Dashboard](Images/Dashboard_1_revenue_analysis.png)
